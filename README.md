@@ -26,6 +26,9 @@ If the API fails to generate an image (due to network issues, invalid input, etc
 
 ## Technologies Used
 **HTML5:** To structure the web content and define the layout.
+
 **CSS3:** For styling the user interface, ensuring a visually appealing and responsive design.
+
 **JavaScript:** To handle user interactions, API requests, and dynamic updates to the UI.
+
 **APIs:** External AI-based image generation APIs are integrated to generate images based on user inputs.
